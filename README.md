@@ -1,2 +1,2 @@
-# play-marginal-valera
-&lt;Marginal Valera> Game 
+# Play Marginal Valera
+&lt;Marginal Valera> Game
