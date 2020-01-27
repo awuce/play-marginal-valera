@@ -1,3 +1,3 @@
 require_relative './src/app_marginal_valera'
 
-MarginalValera.new.show
+MarginalValera.new.play_marginal
